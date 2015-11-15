@@ -1,0 +1,4 @@
+desafio.c: In function ‘imprimemenu’:
+desafio.c:81:24: warning: unused parameter ‘d’ [-Wunused-parameter]
+ void imprimemenu(dados d) //deve retornar a matriz, por enquanto deixe void
+                        ^
